@@ -1,1 +1,0 @@
-# pentu-nogui
