@@ -1,0 +1,25 @@
+# PENTU CLI - Minimal Requirements
+# Lightweight command-line penetration testing toolkit
+# No GUI dependencies for weak hardware and terminal users
+
+# Core dependencies (built-in to Python 3)
+# - os
+# - sys  
+# - subprocess
+# - argparse
+# - json
+# - time
+# - threading
+# - datetime
+# - pathlib
+# - socket
+# - re
+
+# Optional network utilities (if not using system tools)
+requests>=2.25.1
+
+# For enhanced terminal output (optional)
+colorama>=0.4.4
+
+# For advanced CLI features (optional)
+rich>=10.0.0
